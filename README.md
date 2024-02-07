@@ -43,15 +43,15 @@ Welcome to my GitHub profile! I'm Samuel Seth, a seasoned DevOps Engineer with a
 
 ## Experience
 - **Youverify - DevOps Engineer**
-August 2023 - Present (1 year 2 months)
+August 2023 - Present
 
 - **Inspiresia Media - Lead Consultant**
-December 2018 - Present (5 years 3 months)
+December 2018 - Present
 
 ## Education
 - **Master's degree, Management Information Systems**
-  Covenant University (March 2021 - July 2022)
+  Covenant University
 - **Bachelor of Technology, Information and Media Technology**
-  Federal University of Technology Minna (2012 - 2017)
+  Federal University of Technology Minna 
 
 Feel free to reach out for collaboration opportunities or to learn more about my experiences and expertise. Let's connect and innovate together!
