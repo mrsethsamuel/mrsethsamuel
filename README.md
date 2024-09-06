@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I'm Samuel Seth, a seasoned DevOps Engineer with a master's degree in Management Information Systems and a passion for cloud engineering. Here's a glimpse into my professional journey and expertise:
 
 ## Contact Information
-- **Email**: hello@sethsamuel.xyz
 - **LinkedIn**: [linkedin.com/in/mrsamuelseth](www.linkedin.com/in/mrsamuelseth)
 
 ## Top Skills
@@ -46,7 +45,7 @@ Welcome to my GitHub profile! I'm Samuel Seth, a seasoned DevOps Engineer with a
 August 2023 - Present
 
 - **Inspiresia Media - Lead Consultant**
-December 2018 - Present
+December 2018 - 2023
 
 ## Education
 - **Master's degree, Management Information Systems**
